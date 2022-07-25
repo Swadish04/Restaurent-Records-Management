@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Regent garden",
+      "email": "Regentgarden@gmail.com",
+      "mobile": "4456123336",
+      "address": "Mumbai",
+      "services": "tea and coffee"
+    },
+    {
+      "id": 4,
+      "name": "Flora Hotel",
+      "email": "flora@gmail.com",
+      "mobile": "1122334455",
+      "address": "Mumbai",
+      "services": "Fast Food"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
